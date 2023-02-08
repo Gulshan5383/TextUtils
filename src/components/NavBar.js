@@ -1,4 +1,5 @@
 import './navStyle.css';
+import { React } from 'react';
 import logo from './logo.svg';
 
 function navBar() {
@@ -27,4 +28,4 @@ function navBar() {
   )
 }
 
-export default navBar;
+export default navBar();
