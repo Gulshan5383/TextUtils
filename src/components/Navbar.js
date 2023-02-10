@@ -1,5 +1,7 @@
-import React from "react"
-import './NavStyle.css'
+import React from "react";
+import './NavStyle.css';
+import logo from './Logo.svg';
+
 export default function NavBar() {
   return (
     <nav className='navBar'>
