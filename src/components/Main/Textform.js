@@ -2,7 +2,7 @@ import React from "react";
 import './TextformStyle.css';
 
 
-function Textform() {
+export default function Textform() {
   return (
     <>
       <div className="container">
@@ -12,4 +12,4 @@ function Textform() {
   )
 }
 
-export default Textform();
+

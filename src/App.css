@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+/* 
+.textUtils{
+  width: 100%;
+  min-width: 70vh;
+  height: auto;
+  display: flex;
+  background-color: cornflowerblue;
+  flex-direction: column;
+}
+
+.textUtils > *{
+  width: 100%;
+} */
