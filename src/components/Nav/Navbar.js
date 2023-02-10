@@ -4,7 +4,7 @@ import logo from './Logo.svg';
 
 export default function NavBar() {
   return (
-    <nav className='navBar'>
+    <nav className='Navbar'>
       <ul className='itemContainer'>
 
         <li className='navItem'>
